@@ -6,7 +6,7 @@ function Right() {
             <div className='space-y-2 bg-gray-50 p-2'>
                 <h3 className='text-lg font-semibold'>The Overflow Blog</h3>
                 <p className='text-sm'>The unexpected benifits of mentoring others</p>
-                <p className='text-sm'>Podcast 354:Building for AR with Niantic Labs' augmented reality BSDK</p>
+                <p className='text-sm'>Podcast 354:Building for AR with Niantic Labs' augmented reality SDK</p>
             </div>
             <div className='space-y-2 p-2 bg-gray-50'>
                 <h3 className='text-lg font-semibold'>Featured & meta</h3>

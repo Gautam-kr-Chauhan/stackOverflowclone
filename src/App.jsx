@@ -7,7 +7,7 @@ const App = () => {
   return (
     <>
       <Navbar/>
-      <div className='flex justify-between'>
+      <div className='flex'>
         <Left/>
         <Middle/>
         <Right/>
